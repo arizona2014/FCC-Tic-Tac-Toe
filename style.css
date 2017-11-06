@@ -1,0 +1,19 @@
+#board {
+	width:25%;
+	height:410px;
+	margin:10% auto;
+	background:red;
+}
+
+.cells {
+	width:32%;
+	height:133px;
+	float:left;
+	margin-right:6px;
+	margin-bottom: 5px;
+	background: green;
+	text-align:center;
+	line-height:133px;
+	font-size:78px;
+	color: #fff;
+}
