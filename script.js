@@ -85,16 +85,13 @@ $(document).ready(function(){
 		}	
 	}
 	
-	humanHasWinningStrategy(){
-	
+	humanHasWinningStrategy(){	
 	}
 	
-	continueWinningStrategy(){
-		
+	continueWinningStrategy(){		
 	} 
 		
-	blockHumanWinningStrategy(){
-		
+	blockHumanWinningStrategy(){		
 	}	
 	
 	function findWinningStrategy(startPosition){
