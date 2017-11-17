@@ -85,6 +85,18 @@ $(document).ready(function(){
 		}	
 	}
 	
+	humanHasWinningStrategy(){
+	
+	}
+	
+	continueWinningStrategy(){
+		
+	} 
+		
+	blockHumanWinningStrategy(){
+		
+	}	
+	
 	function findWinningStrategy(startPosition){
 		for(i=0;i<winStates.length;i++){
 			if(winStates[i].indexOf(startPosition) !== -1){
